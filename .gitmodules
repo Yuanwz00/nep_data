@@ -1,0 +1,3 @@
+[submodule "AlGaN"]
+	path = AlGaN
+	url = https://github.com/Yuanwz00/nep_data
